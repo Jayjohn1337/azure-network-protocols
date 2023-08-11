@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<img src="https://github.com/Jayjohn1337/azure-nsg/assets/67848718/fa470bca-8947-459a-a142-5fba3e63bc51)"/>
 </p>
 
 <h1>Network Security Groups (NSGs) in Azure Virtual Machines</h1>
